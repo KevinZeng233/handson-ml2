@@ -10,16 +10,6 @@
             <map />
           </authParams2>
         </JupyterConnectionParameters>
-        <JupyterConnectionParameters>
-          <option name="authType" value="notebook" />
-          <option name="token" value="f0b0cbeb8403b48a46cea52e5a05515b5078f3c6ed0c285e" />
-          <option name="urlString" value="http://localhost:8888/" />
-          <authParams2>
-            <map>
-              <entry key="token" value="f0b0cbeb8403b48a46cea52e5a05515b5078f3c6ed0c285e" />
-            </map>
-          </authParams2>
-        </JupyterConnectionParameters>
       </list>
     </option>
     <option name="moduleParameters">
