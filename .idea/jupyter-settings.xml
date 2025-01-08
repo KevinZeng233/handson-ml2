@@ -5,6 +5,13 @@
       <list>
         <JupyterConnectionParameters>
           <option name="authType" value="notebook" />
+          <option name="urlString" value="http://127.0.0.1:8888/" />
+          <authParams2>
+            <map />
+          </authParams2>
+        </JupyterConnectionParameters>
+        <JupyterConnectionParameters>
+          <option name="authType" value="notebook" />
           <option name="urlString" value="http://192.168.1.199:8888/" />
           <authParams2>
             <map />
